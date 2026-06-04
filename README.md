@@ -87,6 +87,16 @@ streamlit run app.py
 
 ---
 
+## 🔗 Links
+
+| Plataforma | Link                                                                         |
+|---|------------------------------------------------------------------------------|
+| 📁 GitHub | [Acessar Repositório](https://github.com/eupedrx/streaming-analise) |
+| 🌐 GitHub Pages | [Acessar Site](https://eupedrx.github.io/streaming-analise/)        |
+| 📊 Streamlit App | [Acessar Dashboard Streamlit](https://streamingproject.streamlit.app/)      |
+
+---
+
 ## Integrantes
 
 - Pedro Guilherme Sena
